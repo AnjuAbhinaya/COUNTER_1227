@@ -1,0 +1,23 @@
+.para{
+    font-size: 150px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.head{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.btn{
+    width: 150px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+}
+.bgcountainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
